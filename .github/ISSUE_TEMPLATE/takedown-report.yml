@@ -1,0 +1,68 @@
+name: 🚩 侵权举报 / Copyright Takedown
+description: 你是权利人，认为站内某张图片侵犯了你的版权 / You own rights to an image hosted here and want it removed
+title: "[Takedown] "
+labels: ["takedown"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        本站为粉丝向、非营利的表情包整理项目，图片均来自网络公开渠道。
+        如果你认为某张图片侵犯了你的版权，请填写下方表单；**核实后我们会尽快（目标 72 小时内）下架对应内容**。
+
+        This is a fan-made, non-profit collection of memes sourced from public channels.
+        If you believe an image infringes your rights, fill in the form below and we will remove it ASAP (target: within 72 hours) after verification.
+
+  - type: input
+    id: content
+    attributes:
+      label: 涉事内容 / Offending content
+      description: 图片编号或页面 URL，如 `#001` 或 `https://ai-meme.cdqyfdbymn.me/meme/001` / Meme number or page URL
+      placeholder: "#001 或 https://ai-meme.cdqyfdbymn.me/meme/001"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: role
+    attributes:
+      label: 你的身份 / Your role
+      options:
+        - 原作者本人 / I am the original author
+        - 权利人授权代表 / Authorized representative of the rights holder
+        - 其他 / Other
+    validations:
+      required: true
+
+  - type: input
+    id: original
+    attributes:
+      label: 原作品链接 / Link to the original work
+      description: 你拥有权利的原作出处 / Where your original work is published
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: proof
+    attributes:
+      label: 权利证明 / Proof of ownership
+      description: 能证明你与原作品关系的材料说明（如作品发布时间、平台账号等）/ Anything that establishes your connection to the original work
+      placeholder: "例如：该图于 20XX 年 X 月首发于我的 XX 账号…"
+    validations:
+      required: true
+
+  - type: input
+    id: contact
+    attributes:
+      label: 联系方式 / Contact
+      description: 邮箱或社交账号，用于核实沟通 / Email or social account for verification
+      placeholder: "you@example.com"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: goodfaith
+    attributes:
+      label: 声明 / Statement
+      options:
+        - label: 我确认以上信息属实，且我是该作品的权利人或授权代表。/ I confirm the information above is true and I am the rights holder or an authorized representative.
+          required: true

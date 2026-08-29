@@ -1,0 +1,61 @@
+name: 📖 Story 投稿 / Meme Story Submission
+description: 为某张表情包补充「背后的故事」双语解释 / Explain the backstory of a meme in Chinese + English
+title: "[Story] #"
+labels: ["story"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢投稿！一条合格的 story = 让不懂中文的读者也能 get 到这张图的笑点。
+
+        Thanks for contributing! A good story lets non-Chinese readers actually get the joke.
+
+  - type: input
+    id: meme
+    attributes:
+      label: 图片编号 / Meme number
+      description: 站内编号，如 `#085`（可在详情页 URL 看到）/ The meme's number, visible in its page URL
+      placeholder: "#085"
+    validations:
+      required: true
+
+  - type: textarea
+    id: zh
+    attributes:
+      label: 中文解释 / Explanation in Chinese
+      description: 这个梗的来历 + 什么场景用。2-4 句 / The meme's origin + when to use it, 2-4 sentences
+    validations:
+      required: true
+
+  - type: textarea
+    id: usage
+    attributes:
+      label: 出处或用法 / Origin or usage（必填其一 / at least one required）
+      description: 梗最早从哪来，或一个具体的使用场景 / Where the meme came from, or a concrete usage scenario
+    validations:
+      required: true
+
+  - type: textarea
+    id: en
+    attributes:
+      label: 英文解释 / English version
+      description: 本地化改写而非逐字直译（可参考站内已有 story 的写法）/ Localized rewrite, not literal translation
+    validations:
+      required: true
+
+  - type: input
+    id: contributor
+    attributes:
+      label: 署名 / Credit
+      description: 展示在 story 下方；可留 GitHub / Reddit / X 等昵称 / Shown under the story; a GitHub / Reddit / X handle works
+      placeholder: "YourName"
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        质量线：**只写出处或只用一句话机翻的投稿会被婉拒**。英文部分要能让母语者看懂笑点，而不只是知道字面意思。
+
+        Quality bar: submissions that are origin-only or one-line machine translations will be declined. The English version should land the joke, not just the literal meaning.

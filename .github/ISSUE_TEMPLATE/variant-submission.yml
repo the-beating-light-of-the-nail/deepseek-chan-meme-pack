@@ -1,0 +1,55 @@
+name: 🌍 变体投稿 / Localized Variant Submission
+description: 为某张图制作你母语版本的改编图 / Submit a localized adaptation of a meme in your language
+title: "[Variant] #"
+labels: ["variant"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        适合会改图的投稿者：把图里的中文台词改编成你的母语，让本地读者直接看懂。
+
+        For contributors who can edit images: adapt the Chinese caption into your language so local readers get it instantly.
+
+  - type: input
+    id: meme
+    attributes:
+      label: 图片编号 / Meme number
+      description: 基于哪张原图改编，如 `#013` / Which original meme this is based on
+      placeholder: "#013"
+    validations:
+      required: true
+
+  - type: input
+    id: lang
+    attributes:
+      label: 目标语言 / Target language
+      description: 如 English / Español / 日本語 / Korean…
+    validations:
+      required: true
+
+  - type: textarea
+    id: image
+    attributes:
+      label: 变体图 / The variant image
+      description: 直接把图片拖进输入框上传 / Drag and drop the image here to upload
+    validations:
+      required: true
+
+  - type: input
+    id: contributor
+    attributes:
+      label: 署名 / Credit
+      description: 展示在变体标签上 / Shown on the variant tab
+      placeholder: "YourName"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: 投稿确认 / Submission checklist
+      options:
+        - label: 我保留了原图构图与文字位置，只是替换了语言（不是机翻拼贴）。/ I kept the original composition and text placement, only swapping the language (not a machine-translated collage).
+          required: true
+        - label: 这是我自己改编的作品，或我有权提交。/ This is my own adaptation, or I have the right to submit it.
+          required: true
