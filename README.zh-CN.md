@@ -2,7 +2,7 @@
 
 [English](README.md) | **简体中文**
 
-> **158 张 DeepSeek 表情包**——「蓝色大肥鱼 / 鲸鱼娘」题材的台词级整理，随版本持续更新。
+> **176 张 DeepSeek 表情包**——「蓝色大肥鱼 / 鲸鱼娘」题材的台词级整理，随版本持续更新。
 > 在线浏览全部图片（瀑布流 + 标签筛选 + 一键分享卡片）：**[DeepSeek表情包在线图库 · 梗鲸 GengJing](https://ai-meme.cdqyfdbymn.me/)**
 > 英文完整版见 [README](README.md)，供 dsh-meme 贴纸插件生态检索（tag：`dsh-meme-pack`）。
 
@@ -57,13 +57,13 @@
 
 ## 使用 / Usage
 
-- 🌐 在线浏览全部 158 张（瀑布流 + 标签筛选 + 一键生成分享卡片）：**[DeepSeek表情包在线图库 · 梗鲸](https://ai-meme.cdqyfdbymn.me/)**
+- 🌐 在线浏览全部 176 张（瀑布流 + 标签筛选 + 一键生成分享卡片）：**[DeepSeek表情包在线图库 · 梗鲸](https://ai-meme.cdqyfdbymn.me/)**
 - 🧩 [dsh-meme](https://github.com/yyh-001/dsh-meme) 插件用户：可直接保存 `previews/` 里的图用 `learn_meme` 入库；可直接扫描的 `index.db` pack 格式正在整理中（欢迎去 dsh-meme 仓库讨论格式）
 - 📦 图片均为 WebP 双档（原图 + 压缩预览），托管于 Supabase Storage 公开桶
 
 ## FAQ / 常见问题
 
-**Q：怎么下载全部 158 张 DeepSeek 表情包？（How to download all the memes?）**
+**Q：怎么下载全部 176 张 DeepSeek 表情包？（How to download all the memes?）**
 A：在线图库单张右键/长按保存即可；批量场景直接用上面的 CDN 直链模式热链，无需逐张下载。
 
 **Q：dsh-meme 插件怎么导入这批表情？**

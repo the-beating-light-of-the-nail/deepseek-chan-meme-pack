@@ -1,8 +1,8 @@
-# 🐋 DeepSeek-chan Meme Pack — 158 Whale-chan Memes
+# 🐋 DeepSeek-chan Meme Pack — 176 Whale-chan Memes
 
 **English** | [简体中文](README.zh-CN.md)
 
-> A curated pack of **158 DeepSeek memes** featuring **whale-chan** (鲸鱼娘, a.k.a. the "blue fat fish") — every sticker keeps its original quote line, and the pack keeps growing.
+> A curated pack of **176 DeepSeek memes** featuring **whale-chan** (鲸鱼娘, a.k.a. the "blue fat fish") — every sticker keeps its original quote line, and the pack keeps growing.
 > Browse all of them online — masonry gallery, tag filter, one-click share cards — at the **whale-chan meme encyclopedia**: **[ai-meme.cdqyfdbymn.me/en](https://ai-meme.cdqyfdbymn.me/en)**.
 >
 > Tagged `dsh-meme-pack` for the [dsh-meme](https://github.com/yyh-001/dsh-meme) sticker plugin ecosystem.
@@ -58,13 +58,13 @@ Direct links to the 19 picks:
 
 ## Usage
 
-- 🌐 Browse all 158 memes online (masonry grid + tag filter + one-click share cards): **[GengJing · whale-chan meme encyclopedia](https://ai-meme.cdqyfdbymn.me/en)**
+- 🌐 Browse all 176 memes online (masonry grid + tag filter + one-click share cards): **[GengJing · whale-chan meme encyclopedia](https://ai-meme.cdqyfdbymn.me/en)**
 - 🧩 [dsh-meme](https://github.com/yyh-001/dsh-meme) plugin users: save images from `previews/` and register them with `learn_meme`; a scannable `index.db` pack format is in the works (format discussion welcome in the dsh-meme repo)
 - 📦 All images are dual-tier WebP (full-size + compressed preview), hosted on a public Supabase Storage bucket
 
 ## FAQ
 
-**Q: How do I download all 158 memes?**
+**Q: How do I download all 176 memes?**
 A: Right-click / long-press to save any single image from the online gallery. For bulk use, just hotlink the CDN URL pattern above — no need to download each file.
 
 **Q: How do I import these into the dsh-meme plugin?**
