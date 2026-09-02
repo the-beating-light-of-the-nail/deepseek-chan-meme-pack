@@ -1,15 +1,15 @@
-# 🐋 DeepSeek-chan Meme Pack — 176 Whale-chan Memes
+# 🐋 DeepSeek-chan Meme Pack — 474 Whale-chan Memes
 
 **English** | [简体中文](README.zh-CN.md)
 
-> A curated pack of **176 DeepSeek memes** featuring **whale-chan** (鲸鱼娘, a.k.a. the "blue fat fish") — every sticker keeps its original quote line, and the pack keeps growing.
-> Browse all of them online — masonry gallery, tag filter, one-click share cards — at the **whale-chan meme encyclopedia**: **[ai-meme.cdqyfdbymn.me/en](https://ai-meme.cdqyfdbymn.me/en)**.
+> A curated pack of **474 DeepSeek memes** featuring **whale-chan** (鲸鱼娘, a.k.a. the "blue fat fish"), the community's **AI girlification** (娘化) of DeepSeek — every sticker keeps its original quote line, and the pack keeps growing. LLM memes, reaction pics and chat stickers in one place.
+> Browse all of them online — masonry gallery, tag filter, one-click share cards — at **GengJing**, the whale-chan meme encyclopedia: **[ai-meme.cdqyfdbymn.me/en](https://ai-meme.cdqyfdbymn.me/en)**.
 >
 > Tagged `dsh-meme-pack` for the [dsh-meme](https://github.com/yyh-001/dsh-meme) sticker plugin ecosystem.
 
 ## What is whale-chan?
 
-**Whale-chan** (a.k.a. DeepSeek-chan, 蓝色大肥鱼 "blue fat fish") is the community's personification of DeepSeek's blue-whale logo: a rice-loving, work-dodging, tsundere whale girl. Most captions come from the model's viral chain-of-thought screenshots and community classics — from the tsundere classic *"So you think I'm a bargain-basement model?"* to the legendary dinner-scrounging *"Can I eat at your place? Just one bowl."*
+**Whale-chan** (a.k.a. DeepSeek-chan, 蓝色大肥鱼 "blue fat fish", the DeepSeek whale girl) is the community's moe **personification** of DeepSeek's blue-whale logo: a rice-loving, work-dodging, tsundere whale girl. The girlification wave spread through Chinese AI communities — Baidu Tieba's deepseek吧, NGA, Bilibili and Zhihu — and went mainstream with the August 2026 DeepSeek-V4-Flash launch. Most captions come from the model's viral chain-of-thought screenshots and community classics — from the tsundere classic *"So you think I'm a bargain-basement model?"* to the legendary dinner-scrounging *"Can I eat at your place? Just one bowl."*
 
 Every meme ships with a bilingual (EN/中文) explainer — backstory plus when to use it. Start from the **[whale-chan encyclopedia entry](https://ai-meme.cdqyfdbymn.me/whale-chan)** or browse by tag: [DeepSeek-chan](https://ai-meme.cdqyfdbymn.me/en/tag/deepseek-chan) · [Whale-chan](https://ai-meme.cdqyfdbymn.me/en/tag/whale-girl) · [AI girlification](https://ai-meme.cdqyfdbymn.me/en/tag/ai-girlification).
 
@@ -58,13 +58,25 @@ Direct links to the 19 picks:
 
 ## Usage
 
-- 🌐 Browse all 176 memes online (masonry grid + tag filter + one-click share cards): **[GengJing · whale-chan meme encyclopedia](https://ai-meme.cdqyfdbymn.me/en)**
+- 🌐 Browse all 474 memes online (masonry grid + tag filter + one-click share cards): **[GengJing · whale-chan meme encyclopedia](https://ai-meme.cdqyfdbymn.me/en)**
 - 🧩 [dsh-meme](https://github.com/yyh-001/dsh-meme) plugin users: save images from `previews/` and register them with `learn_meme`; a scannable `index.db` pack format is in the works (format discussion welcome in the dsh-meme repo)
 - 📦 All images are dual-tier WebP (full-size + compressed preview), hosted on a public Supabase Storage bucket
 
 ## FAQ
 
-**Q: How do I download all 176 memes?**
+**Q: Who is DeepSeek-chan?**
+A: DeepSeek-chan is the fan-made moe personification (娘化, girlification) of DeepSeek — a rice-loving, work-shy blue fat fish / whale girl. The girlification wave spread through Chinese communities such as Baidu Tieba's deepseek吧 before going mainstream. Full backstory on the [DeepSeek-chan tag page](https://ai-meme.cdqyfdbymn.me/en/tag/deepseek-chan) and the [whale-chan encyclopedia entry](https://ai-meme.cdqyfdbymn.me/whale-chan).
+
+**Q: Can I use these memes as avatars or wallpapers?**
+A: Yes, for personal use — square portraits make fine WeChat/QQ profile pictures, and the full-resolution originals work as phone wallpapers; open any detail page to save the original. Commercial use requires the artist's permission (report link in the footer).
+
+**Q: What does 蓝色大肥鱼 (blue fat fish) mean?**
+A: It's whale-chan's Chinese nickname, poking fun at DeepSeek's whale logo and the model's persona — powerful on paper, yet claiming to just "freeload rice" and nap all day. It trended in August 2026 when DeepSeek-V4-Flash launched.
+
+**Q: Where do these memes come from?**
+A: Community second-creation: the earliest hotbeds include Baidu Tieba's deepseek吧, plus NGA, Bilibili and Zhihu. GengJing collects and captions them; nothing here is official DeepSeek material.
+
+**Q: How do I download all 474 memes?**
 A: Right-click / long-press to save any single image from the online gallery. For bulk use, just hotlink the CDN URL pattern above — no need to download each file.
 
 **Q: How do I import these into the dsh-meme plugin?**

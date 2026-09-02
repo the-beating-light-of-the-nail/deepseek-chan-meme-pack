@@ -1,16 +1,16 @@
-# 🐋 DeepSeek酱语录 · DeepSeek-chan Meme Pack
+# 🐋 DeepSeek酱语录 · 蓝色大肥鱼表情包 · DeepSeek娘化拟人梗图
 
 [English](README.md) | **简体中文**
 
-> **176 张 DeepSeek 表情包**——「蓝色大肥鱼 / 鲸鱼娘」题材的台词级整理，随版本持续更新。
-> 在线浏览全部图片（瀑布流 + 标签筛选 + 一键分享卡片）：**[DeepSeek表情包在线图库 · 梗鲸 GengJing](https://ai-meme.cdqyfdbymn.me/)**
+> **474 张 DeepSeek表情包**——「蓝色大肥鱼 / 鲸鱼娘」题材的台词级整理，随版本持续更新。DeepSeek娘化拟人二创、AI表情包与大模型嘴替合集。
+> 在线浏览全部图片（瀑布流 + 标签筛选 + 一键分享卡片）：**[DeepSeek表情包在线图库 · 梗鲸 GengJing](https://ai-meme.cdqyfdbymn.me/)**——梗鲸表情包持续更新，点图放大长按保存，微信 QQ 斗图直接用。
 > 英文完整版见 [README](README.md)，供 dsh-meme 贴纸插件生态检索（tag：`dsh-meme-pack`）。
 
 ## 什么是「蓝色大肥鱼」/ What is whale-chan?
 
-「蓝色大肥鱼」是中文社区给 DeepSeek 蓝鲸 logo 起的爱称，对应的萌拟人形象就是 **DeepSeek娘（鲸鱼娘 / Whale-chan）**：一头端着饭碗、上班摸鱼、嘴上傲娇的蓝色鲸鱼。表情包台词大多出自模型的思维链（CoT）名场面和社区二创——从「真当我是便宜货啊」的傲娇嘴替，到「我能去你家吃饭吗，就一碗」的蹭饭名场面。
+「蓝色大肥鱼」（DeepSeek大肥鱼）是中文社区给 DeepSeek 蓝鲸 logo 起的爱称，对应的萌拟人形象就是 **DeepSeek娘（鲸鱼娘 / Whale-chan）**：一头端着饭碗、上班摸鱼、嘴上傲娇的蓝色鲸鱼。这股 **DeepSeek娘化 / DeepSeek拟人**二创最早从**百度deepseek吧**等社区刮起，如今已是中文圈辨识度最高的 **AI娘化**形象。表情包台词大多出自模型的思维链（CoT）名场面和社区二创——从「真当我是便宜货啊」的**大模型嘴替**，到「我能去你家吃饭吗，就一碗」的蹭饭名场面，再到「吃白饭的蓝色大肥鱼」的**摸鱼表情包**语录。
 
-每张图都有中英双语梗科普（来历 + 使用场景），见 **[Whale-chan 英文词条](https://ai-meme.cdqyfdbymn.me/whale-chan)** 与 [DeepSeek娘标签页](https://ai-meme.cdqyfdbymn.me/DeepSeek娘)。
+每张图都有中英双语梗科普（来历 + 使用场景），见 **[Whale-chan 英文词条](https://ai-meme.cdqyfdbymn.me/whale-chan)** 与 [DeepSeek娘](https://ai-meme.cdqyfdbymn.me/DeepSeek娘)、[DeepSeek鲸鱼娘](https://ai-meme.cdqyfdbymn.me/DeepSeek鲸鱼娘)、[AI娘化](https://ai-meme.cdqyfdbymn.me/AI娘化) 标签页。
 
 ## 预览 / Preview（精选 19 张）
 
@@ -57,13 +57,25 @@
 
 ## 使用 / Usage
 
-- 🌐 在线浏览全部 176 张（瀑布流 + 标签筛选 + 一键生成分享卡片）：**[DeepSeek表情包在线图库 · 梗鲸](https://ai-meme.cdqyfdbymn.me/)**
+- 🌐 在线浏览全部 474 张 DeepSeek梗图（瀑布流 + 标签筛选 + 一键生成分享卡片）：**[DeepSeek表情包在线图库 · 梗鲸](https://ai-meme.cdqyfdbymn.me/)**
 - 🧩 [dsh-meme](https://github.com/yyh-001/dsh-meme) 插件用户：可直接保存 `previews/` 里的图用 `learn_meme` 入库；可直接扫描的 `index.db` pack 格式正在整理中（欢迎去 dsh-meme 仓库讨论格式）
 - 📦 图片均为 WebP 双档（原图 + 压缩预览），托管于 Supabase Storage 公开桶
 
 ## FAQ / 常见问题
 
-**Q：怎么下载全部 176 张 DeepSeek 表情包？（How to download all the memes?）**
+**Q：DeepSeek娘是谁？**
+A：DeepSeek娘（DeepSeek娘化 / 拟人形象，也叫鲸鱼娘 Whale-chan、蓝色大肥鱼）是网友为 DeepSeek 创作的萌拟人化身：一头爱吃白饭、上班摸鱼的蓝色大肥鱼。这股娘化二创最早在百度deepseek吧等社区流行，如今已是中文圈最有辨识度的 AI 二次元形象之一。详见 [DeepSeek娘标签页](https://ai-meme.cdqyfdbymn.me/DeepSeek娘)。
+
+**Q：这些表情包能当头像或壁纸吗？**
+A：可以。方形立绘图直接设成微信/QQ 头像很合适，大尺寸原图也可以做手机壁纸——点进任意详情页即可保存原图。个人聊天使用随意，商用请先联系原作者（仓库与站点页脚均有侵权举报入口）。
+
+**Q：「吃白饭的蓝色大肥鱼」是什么梗？**
+A：这是 DeepSeek娘最出圈的自我吐槽：明明实力能打，却自称『只是吃白饭的蓝色大肥鱼』，配上爱睡觉、爱摸鱼的人设，反差感拉满。同族热梗还有『真当我是便宜货啊』和摸鱼语录系列。
+
+**Q：这些 DeepSeek 梗图出自哪里？**
+A：社区二创：最早的热土包括百度deepseek吧，以及 NGA、哔哩哔哩、知乎。梗鲸负责收录并为每张图写台词级描述与梗科普，这里没有任何 DeepSeek 官方物料。
+
+**Q：怎么下载全部 474 张 DeepSeek 表情包？（How to download all the memes?）**
 A：在线图库单张右键/长按保存即可；批量场景直接用上面的 CDN 直链模式热链，无需逐张下载。
 
 **Q：dsh-meme 插件怎么导入这批表情？**
