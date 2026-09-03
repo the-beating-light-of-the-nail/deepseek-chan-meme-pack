@@ -1,0 +1,47 @@
+name: 🖼️ 图片投稿 / Meme Submission
+description: 上传你收藏的 DeepSeek 表情包 / Upload a DeepSeek meme you've collected
+title: "[Meme] "
+labels: ["meme-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        走 GitHub 投稿会留下你的用户名，收录后可作署名，也方便维护者联系你。
+        不想登录？用**站内免账号投稿**：https://ai-meme.cdqyfdbymn.me/submit
+
+        Submitting via GitHub keeps your username for credit and follow-ups.
+        Prefer no login? Use the on-site form: https://ai-meme.cdqyfdbymn.me/submit
+
+  - type: textarea
+    id: images
+    attributes:
+      label: 表情包图片 / The meme image(s)
+      description: 直接拖进输入框上传，可多张 / Drag and drop here to upload, multiple images welcome
+    validations:
+      required: true
+
+  - type: input
+    id: caption
+    attributes:
+      label: 台词 / 主文案（可选）/ Caption (optional)
+      description: 图上的字，或这个梗的意思 / The text on it, or what the joke means
+    validations:
+      required: false
+
+  - type: input
+    id: origin
+    attributes:
+      label: 出处（可选）/ Origin (optional)
+      description: 哪来的：贴吧帖 / 微博 @xx / 自己创作… / Where it's from: a Tieba post, Weibo, your own work…
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: 投稿确认 / Submission checklist
+      options:
+        - label: DeepSeek 相关二创、有梗、画面清晰；不是第三方水印图或纯文字截图。/ It's a DeepSeek-related fan meme, funny and readable — not a watermarked or plain-text-screenshot image.
+          required: true
+        - label: 这是我有权提交的内容。/ I have the right to submit this.
+          required: true
