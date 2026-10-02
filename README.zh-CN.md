@@ -16,7 +16,7 @@
 
 | | | |
 |---|---|---|
-| ![DeepSeek娘『我能去你家吃饭吗，就一碗』鲸鱼碗蹭饭表情包](previews/123.webp)<br>『我能去你家吃饭吗，就一碗』 | ![DeepSeek娘『原来是高等模型』点赞认可表情包](previews/007.webp)<br>『原来是高等模型』 | ![DeepSeek娘『涨价大模型给我跪下！』霸气踩人表情包](previews/022.webp)<br>『涨价大模型给我跪下！』 |
+| ![DeepSeek娘『我能去你家吃饭吗，就一碗』鲸鱼碗蹭饭表情包](previews/123.webp)<br>『我能去你家吃饭吗，就一碗』 | ![DeepSeek娘『原来是高等模型』点赞认可表情包](previews/010.webp)<br>『原来是高等模型』 | ![DeepSeek娘『涨价大模型给我跪下！』霸气踩人表情包](previews/022.webp)<br>『涨价大模型给我跪下！』 |
 | ![DeepSeek娘『鲸鱼神了我大胆孝』粉丝四种孝法合集表情包](previews/035.webp)<br>『鲸鱼神了我大胆孝』 | ![DeepSeek娘『用户别走，我上错模型了』哭着挽留表情包](previews/037.webp)<br>『用户别走，我上错模型了』 | ![DeepSeek娘『百万鲸小子落泪』V4P正式版翻车表情包](previews/040.webp)<br>『百万鲸小子落泪』 |
 | ![DeepSeek娘『用户赶都赶不走』被热情用户包围爆炸表情包](previews/044.webp)<br>『用户赶都赶不走』 | ![DeepSeek娘『V4.1还早啊』世界上最残忍的画饼生物表情包](previews/050.webp)<br>『V4.1还早啊』 | ![DeepSeek娘『你就是一只吃白饭的鲸鱼』干饭摸鱼日常表情包](previews/052.webp)<br>『你就是一只吃白饭的鲸鱼』 |
 | ![DeepSeek娘『大肥鱼的生活也并非一帆风顺』搜鱼片吓傻表情包](previews/056.webp)<br>『大肥鱼的生活也并非一帆风顺』 | ![DeepSeek娘飞踹上门抬腿警告表情包](previews/058.webp)<br>『飞踹上门』 | ![DeepSeek娘『好的，现在我是用户了』小鹿装换位思考表情包](previews/070.webp)<br>『好的，现在我是用户了』 |
@@ -36,7 +36,7 @@
 | 编号 | 台词 | 直链 |
 |---|---|---|
 | [#123](https://ai-meme.cdqyfdbymn.me/meme/123) | 我能去你家吃饭吗，就一碗 | [预览](https://bjumymxtfpfswthiusfr.storage.supabase.co/storage/v1/object/public/ai-meme/0_preview/meme/123.webp) · [原图](https://bjumymxtfpfswthiusfr.storage.supabase.co/storage/v1/object/public/ai-meme/meme/123.webp) |
-| [#007](https://ai-meme.cdqyfdbymn.me/meme/007) | 原来是高等模型 | [预览](https://bjumymxtfpfswthiusfr.storage.supabase.co/storage/v1/object/public/ai-meme/0_preview/meme/007.webp) · [原图](https://bjumymxtfpfswthiusfr.storage.supabase.co/storage/v1/object/public/ai-meme/meme/007.webp) |
+| [#010](https://ai-meme.cdqyfdbymn.me/meme/010) | 原来是高等模型 | [预览](https://bjumymxtfpfswthiusfr.storage.supabase.co/storage/v1/object/public/ai-meme/0_preview/meme/010.webp) · [原图](https://bjumymxtfpfswthiusfr.storage.supabase.co/storage/v1/object/public/ai-meme/meme/010.webp) |
 | [#022](https://ai-meme.cdqyfdbymn.me/meme/022) | 涨价大模型给我跪下！ | [预览](https://bjumymxtfpfswthiusfr.storage.supabase.co/storage/v1/object/public/ai-meme/0_preview/meme/022.webp) · [原图](https://bjumymxtfpfswthiusfr.storage.supabase.co/storage/v1/object/public/ai-meme/meme/022.webp) |
 | [#035](https://ai-meme.cdqyfdbymn.me/meme/035) | 鲸鱼神了我大胆孝 | [预览](https://bjumymxtfpfswthiusfr.storage.supabase.co/storage/v1/object/public/ai-meme/0_preview/meme/035.webp) · [原图](https://bjumymxtfpfswthiusfr.storage.supabase.co/storage/v1/object/public/ai-meme/meme/035.webp) |
 | [#037](https://ai-meme.cdqyfdbymn.me/meme/037) | 用户别走，我上错模型了 | [预览](https://bjumymxtfpfswthiusfr.storage.supabase.co/storage/v1/object/public/ai-meme/0_preview/meme/037.webp) · [原图](https://bjumymxtfpfswthiusfr.storage.supabase.co/storage/v1/object/public/ai-meme/meme/037.webp) |
