@@ -1,6 +1,6 @@
 # 🐋 DeepSeek-chan Meme Pack — Whale-chan Memes (1,400+)
 
-[简体中文](README.md) | **English**
+[简体中文](README.md) | **English** | [日本語](README.ja.md)
 
 > A curated pack of **1,400+ DeepSeek memes** featuring **whale-chan** (鲸鱼娘, a.k.a. the "blue fat fish" / 蓝色大肥鱼), the community's **AI girlification** (娘化) of DeepSeek — every sticker keeps its original quote line, and the pack keeps growing. LLM memes, reaction pics and chat stickers in one place.
 > Browse all of them online — masonry gallery, tag filter, one-click share cards — at **GengJing**, the whale-chan meme encyclopedia: **[aigengtu.com/en](https://aigengtu.com/en)**.
